@@ -1,0 +1,17 @@
+#map {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.state {
+    transition: fill 0.3s;
+}
+
+.tooltip {
+    font-family: 'adobe-caslon-pro', serif;
+    color: #361B17;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
