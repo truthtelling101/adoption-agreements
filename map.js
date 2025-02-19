@@ -17,7 +17,7 @@ d3.select('#map')
     .style('text-align', 'left')
     .style('font-family', 'adobe-caslon-pro, serif')
     .style('color', '#361B17')
-    .style('font-size', '16px')
+    .style('font-size', '18px')
     .text('Review actual adoption surrender documents used across America during the closed adoption era. These historical records demonstrate that despite common misconceptions, no state legally committed to perpetual secrecy in adoption.');
 
 // Create SVG
